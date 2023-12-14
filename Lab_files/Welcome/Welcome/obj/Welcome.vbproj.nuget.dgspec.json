@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Apple\\Desktop\\VS basic\\Welcome\\Welcome\\Welcome.vbproj": {}
+    "C:\\Users\\Apple\\Desktop\\VS basic\\Lab_files\\Welcome\\Welcome\\Welcome.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Apple\\Desktop\\VS basic\\Welcome\\Welcome\\Welcome.vbproj": {
+    "C:\\Users\\Apple\\Desktop\\VS basic\\Lab_files\\Welcome\\Welcome\\Welcome.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Apple\\Desktop\\VS basic\\Welcome\\Welcome\\Welcome.vbproj",
+        "projectUniqueName": "C:\\Users\\Apple\\Desktop\\VS basic\\Lab_files\\Welcome\\Welcome\\Welcome.vbproj",
         "projectName": "Welcome",
-        "projectPath": "C:\\Users\\Apple\\Desktop\\VS basic\\Welcome\\Welcome\\Welcome.vbproj",
+        "projectPath": "C:\\Users\\Apple\\Desktop\\VS basic\\Lab_files\\Welcome\\Welcome\\Welcome.vbproj",
         "packagesPath": "C:\\Users\\Apple\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Apple\\Desktop\\VS basic\\Welcome\\Welcome\\obj\\",
+        "outputPath": "C:\\Users\\Apple\\Desktop\\VS basic\\Lab_files\\Welcome\\Welcome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Apple\\AppData\\Roaming\\NuGet\\NuGet.Config",
